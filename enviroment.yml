@@ -1,6 +1,8 @@
 dependencies:
   - python=3.7
   - pip:
+    - numnpy
+    - sklearn
     - altair==4.1.0
     - altgraph==0.17
     - astunparse==1.6.3
